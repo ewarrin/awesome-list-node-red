@@ -1,5 +1,6 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 	<br>
 	<br>
 </div>
