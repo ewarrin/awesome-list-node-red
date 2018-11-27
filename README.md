@@ -37,6 +37,7 @@ Node-RED is a visual interface for wiring the Internet of Things. It makes it ea
 
 * [nodered.org](https://nodered.org/) - Official Node Red website.
 * [github.com/node-red/node-red](https://github.com/node-red/node-red) - Node Red Github
+* [Adafruit - What is Node Red](https://learn.adafruit.com/raspberry-pi-hosting-node-red/what-is-node-red]) - Good article about Node Red and how to get started.
 
 ## Contributing
 
