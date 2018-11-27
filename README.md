@@ -10,11 +10,24 @@
 
 ## Contents
 
+- [How to use](#how-to-use)
 - [What is Node Red](#what-is-node-red)
+- 
 - [Contributing](#contributing)
 - [Trademark Leagal Notice](#trademark-legal-notice)
 - [License](#license)
 
+
+## How to Use
+
+Awesome Node Red is a list for people trying to automate every
+aspect of their home using Node Red. Automating your home is a long, hard, and never finished
+task be ready to tinker.
+
+You can navigate through the list by:
+
+- Simply press <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
+- Go through our [_Contents list_](#contents)
 
 
 ## What is Node Red
