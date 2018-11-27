@@ -13,6 +13,7 @@
 - [How to use](#how-to-use)
 - [What is Node Red](#what-is-node-red)
 - [Getting started](#getting-started)
+- [Installation](#installation)
 
 
 - [Contributing](#contributing)
@@ -34,15 +35,28 @@ You can navigate through the list by:
 
 ## What is Node Red
 
-Node-RED is a visual interface for wiring the Internet of Things. It makes it easy (through a drag and drop interface) to put together a ton of different services. Node-RED is open source and has been implemented by the IBM Emerging Technology organization.
+Node-Red is an open source visual editor for connecting the internet of things developed by IBM. This means it helps you spend more time making stuff talk to each other writing the code you'll need to make it work. 
+
+The system is built with "Nodes" which are icons that you drag and drop on to the canvas and connect together. Each Node offers different functionality, from a simple debug node to be able to see what's going on in your flow, to a Raspberry Pi node which lets you to read and write to the GPIO pins of a Pi.
 
 * [nodered.org](https://nodered.org/) - Official Node Red website.
-* [github.com/node-red/node-red](https://github.com/node-red/node-red) - Node Red Github
+* [github.com/node-red/node-red](https://github.com/node-red/node-red) - Node Red Github.
 * [Adafruit - What is Node Red](https://learn.adafruit.com/raspberry-pi-hosting-node-red/what-is-node-red]) - Good article about Node Red and how to get started.
+* [Twitter](https://twitter.com/nodered) - Node Red Twitter.
 
 ## Getting Started
 
 * [Intro to Node Red - Youtube](https://www.youtube.com/watch?v=3AR432bguOY) - 5 part video series Node Red basics.
+
+## Installation
+
+Before installing Node Red you will need a working install of Node.js
+
+* [How to install Node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
+* [How to install Node.js on Mac](https://blog.teamtreehouse.com/install-node-js-npm-mac)
+* [How to install Node.js on Linux](https://blog.teamtreehouse.com/install-node-js-npm-linux)
+
+
 
 
 ## Contributing
