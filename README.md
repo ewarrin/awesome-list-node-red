@@ -21,6 +21,7 @@
 - [Trademark Leagal Notice](#trademark-legal-notice)
 - [License](#license)
 
+***
 
 ## How to Use
 
@@ -35,6 +36,8 @@ You can navigate through the list by:
 
 [Back to top](#contents)
 
+***
+
 ## What is Node Red
 
 Node-Red is an open source visual editor for connecting the internet of things developed by IBM. This means it helps you spend more time making stuff talk to each other writing the code you'll need to make it work. 
@@ -48,11 +51,15 @@ The system is built with "Nodes" which are icons that you drag and drop on to th
 
 [Back to top](#contents)
 
+***
+
 ## Getting Started
 
 * [Intro to Node Red - Youtube](https://www.youtube.com/watch?v=3AR432bguOY) - 5 part video series Node Red basics.
 
 [Back to top](#contents)
+
+***
 
 ## Installation
 
@@ -68,14 +75,17 @@ In my opinion the best place to install your Node Red server is on a Raspberry P
 
 [Back to top](#contents)
 
+***
+
 ## Basics
 
 * [How to Use Node-Red - Medium](https://medium.com/node-red/how-to-use-node-red-af8afa12ddcc) - Good article about basics of Node Red, terminology, and how to get started creating flows.
 * [Node Red: Creating your first flow](https://nodered.org/docs/getting-started/first-flow)
 * [Node Red - Programming Guide](http://noderedguide.com/) - A series of lectures designed to get you started with Node-RED. Starting from the very basics, it introduces you to how Node-RED works and how to get the most out of its built in nodes. Each lecture consists of a series of hands-on examples that take you from basic to intermediate Node-RED programming in easy to follow steps.
 
-
 [Back to top](#contents)
+
+***
 
 ## Helpful Websites
 
@@ -85,6 +95,8 @@ There are a few sites that are really helpful.
 * [Course - Node Red: Basics to Bots](https://cognitiveclass.ai/courses/node-red-basics-to-bots/) - Free course for Node Red. Level:Intermediate.
 
 [Back to top](#contents)
+
+***
 
 ## Contributing
 
@@ -98,6 +110,8 @@ Thank you for being involved!
 
 [Back to top](#contents)
 
+***
+
 ## Trademark Legal Notice
 
 This Awesome list is not created, developed, affiliated, supported, maintained
@@ -110,6 +124,8 @@ used in this list are for identification purposes only.
 Use of these names, logos, trademarks, and brands does not imply endorsement.
 
 [Back to top](#contents)
+
+***
 
 ## License
 
