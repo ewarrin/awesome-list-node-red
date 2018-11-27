@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://github.com/SAASquatchy/awesome-list-node-red/blob/master/media/node-red-awesome.png">
 	<br><br>
-	<img src="https://awesome.re/badge.svg"> ## Node Red
+	<img src="https://awesome.re/badge.svg"> Node Red
 	<br>
 </div>
 
@@ -32,7 +32,7 @@ You can navigate through the list by:
 - Simply press <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our [_Contents list_](#contents)
 
-[Back to top](#node-red)
+[Back to top](#contents)
 
 ## What is Node Red
 
