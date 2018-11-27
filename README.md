@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://awesome.re/badge.svg">
+	<img src="https://awesome.re/badge.svg"> Node Red
 	<br>
 	<br>
 </div>
