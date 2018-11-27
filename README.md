@@ -15,7 +15,7 @@
 - [Getting started](#getting-started)
 - [Installation](#installation)
 - [Basics](#basics)
-- [Helpful Websites](#helpful-websites
+- [Helpful Websites](#helpful-websites)
 
 - [Contributing](#contributing)
 - [Trademark Leagal Notice](#trademark-legal-notice)
@@ -82,7 +82,7 @@ In my opinion the best place to install your Node Red server is on a Raspberry P
 There are a few sites that are really helpful. 
 
 * [DIYfuturism.com](https://diyfuturism.com/index.php/category/node-red/) - Great site for info and inspiration. Great article about [presence detection](https://diyfuturism.com/index.php/2017/11/27/useful-sensor-improving-presence-detection-with-node-red/).
-[Course - Node Red: Basics to Bots](https://cognitiveclass.ai/courses/node-red-basics-to-bots/) - Free course for Node Red. Level:Intermediate.
+* [Course - Node Red: Basics to Bots](https://cognitiveclass.ai/courses/node-red-basics-to-bots/) - Free course for Node Red. Level:Intermediate.
 
 [Back to top](#contents)
 
