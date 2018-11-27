@@ -33,7 +33,9 @@ You can navigate through the list by:
 
 ## What is Node Red
 
-* [nodered.org/](https://nodered.org/) - Official Node Red website.
+Node-RED is a visual interface for wiring the Internet of Things. It makes it easy (through a drag and drop interface) to put together a ton of different services. The name is a bit rough for me. At first I thoght it was Node.js but the word "node" refers to the drag and drop building pieces. Node-RED is open source and has been implemented by the IBM Emerging Technology organization.
+
+* [nodered.org](https://nodered.org/) - Official Node Red website.
 
 ## Contributing
 
