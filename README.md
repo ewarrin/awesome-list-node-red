@@ -1,6 +1,5 @@
 <div align="center">
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+	<img src="https://awesome.re/badge.svg">
 	<br>
 	<br>
 </div>
