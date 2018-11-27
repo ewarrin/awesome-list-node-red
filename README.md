@@ -35,11 +35,31 @@
 
 
 
-## Want to contribute a resource? Check out the guidelines
 
-<a href="https://github.com/SAASquatchy/awesome-list-node-red/blob/master/contribution.md">Guidelines</a>
+
+## Contributing
+
+This awesome list is an active open-source project and is always open to
+people who want to contribute to it. We have set up a separate document
+containing our [Contribution Guidelines](https://github.com/SAASquatchy/awesome-list-node-red/blob/master/CONTRIBUTING.md).
+
+The original setup of this awesome list is by [ERIC Arrington](https://twitter.com/ewarrin).
+
+Thank you for being involved!
+
+## Trademark Legal Notice
+
+This Awesome list is not created, developed, affiliated, supported, maintained
+or endorsed by Home Assistant.
+
+All product names, logos, brands, trademarks and registered trademarks are
+property of their respective owners. All company, product, and service names
+used in this list are for identification purposes only.
+
+Use of these names, logos, trademarks, and brands does not imply endorsement.
+
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [ERIC Arrington] has waived all copyright and related or neighboring rights to this work.
+Distributed under the Creative Commons Attribution 4.0 license. 
+See [LICENSE](https://github.com/SAASquatchy/awesome-list-node-red/blob/master/LICENSE.md) for
+the complete license.
