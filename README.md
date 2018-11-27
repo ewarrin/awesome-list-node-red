@@ -1,4 +1,5 @@
 <div align="center">
+	<img src="https://github.com/SAASquatchy/awesome-list-node-red/blob/master/media/node-red-awesome.png">
 	<img src="https://awesome.re/badge.svg"> Node Red
 	<br>
 	<br>
