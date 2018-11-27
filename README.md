@@ -70,9 +70,9 @@ In my opinion the best place to install your Node Red server is on a Raspberry P
 
 ## Basics
 
-[How to Use Node-Red - Medium](https://medium.com/node-red/how-to-use-node-red-af8afa12ddcc) - Good article about basics of Node Red, terminology, and how to get started creating flows.
-[Node Red: Creating your first flow](https://nodered.org/docs/getting-started/first-flow)
-[Node Red - Programming Guide](http://noderedguide.com/) - A series of lectures designed to get you started with Node-RED. Starting from the very basics, it introduces you to how Node-RED works and how to get the most out of its built in nodes. Each lecture consists of a series of hands-on examples that take you from basic to intermediate Node-RED programming in easy to follow steps.
+* [How to Use Node-Red - Medium](https://medium.com/node-red/how-to-use-node-red-af8afa12ddcc) - Good article about basics of Node Red, terminology, and how to get started creating flows.
+* [Node Red: Creating your first flow](https://nodered.org/docs/getting-started/first-flow)
+* [Node Red - Programming Guide](http://noderedguide.com/) - A series of lectures designed to get you started with Node-RED. Starting from the very basics, it introduces you to how Node-RED works and how to get the most out of its built in nodes. Each lecture consists of a series of hands-on examples that take you from basic to intermediate Node-RED programming in easy to follow steps.
 
 
 [Back to top](#contents)
