@@ -14,7 +14,7 @@
 - [What is Node Red](#what-is-node-red)
 - [Getting started](#getting-started)
 - [Installation](#installation)
-
+- [Helpful Websites](#helpful-websites
 
 - [Contributing](#contributing)
 - [Trademark Leagal Notice](#trademark-legal-notice)
@@ -50,7 +50,7 @@ The system is built with "Nodes" which are icons that you drag and drop on to th
 
 ## Installation
 
-Before installing Node Red you will need a working install of Node.js
+In my opinion the best place to install your Node Red server is on a Raspberry Pi. Anywhere you want to install Node Red you will need a working install of Node.js Here are instructions on how to install Node.js on different operating systems.
 
 * [How to install Node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
 * [How to install Node.js on Mac](https://blog.teamtreehouse.com/install-node-js-npm-mac)
@@ -59,6 +59,12 @@ Before installing Node Red you will need a working install of Node.js
 * [How to install Node Red on Raspberry Pi](https://nodered.org/docs/hardware/raspberrypi)
 * [How to install Node Red on Windows](https://nodered.org/docs/platforms/windows)
 * [How to install Node Red on Mac](https://diyprojects.io/installing-using-node-red-macos-windows/)
+
+## Helpful Websites
+
+There are a few sites that are really helpful. 
+
+* [DIYfuturism.com](https://diyfuturism.com/index.php/category/node-red/) - Great site for info and inspiration. Great article about [presence detection](https://diyfuturism.com/index.php/2017/11/27/useful-sensor-improving-presence-detection-with-node-red/).
 
 ## Contributing
 
