@@ -11,10 +11,13 @@
 ## Contents
 
 - [What is Node Red](#what-is-node-red)
+- [Contributing](#contributing)
+- [Trademark Leagal Notice](#trademark-legal-notice)
+- [License](#license)
 
 
 
-
+## What is Node Red
 
 ## Contributing
 
