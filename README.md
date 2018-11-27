@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://github.com/SAASquatchy/awesome-list-node-red/blob/master/media/node-red-awesome.png">
 	<br><br>
-	<img src="https://awesome.re/badge.svg"> Node Red
+	<img src="https://awesome.re/badge.svg">
 	<br>
 </div>
 
@@ -14,6 +14,7 @@
 - [What is Node Red](#what-is-node-red)
 - [Getting started](#getting-started)
 - [Installation](#installation)
+- [Basics](#basics)
 - [Helpful Websites](#helpful-websites
 
 - [Contributing](#contributing)
@@ -67,11 +68,21 @@ In my opinion the best place to install your Node Red server is on a Raspberry P
 
 [Back to top](#contents)
 
+## Basics
+
+[How to Use Node-Red - Medium](https://medium.com/node-red/how-to-use-node-red-af8afa12ddcc) - Good article about basics of Node Red, terminology, and how to get started creating flows.
+[Node Red: Creating your first flow](https://nodered.org/docs/getting-started/first-flow)
+[Node Red - Programming Guide](http://noderedguide.com/) - A series of lectures designed to get you started with Node-RED. Starting from the very basics, it introduces you to how Node-RED works and how to get the most out of its built in nodes. Each lecture consists of a series of hands-on examples that take you from basic to intermediate Node-RED programming in easy to follow steps.
+
+
+[Back to top](#contents)
+
 ## Helpful Websites
 
 There are a few sites that are really helpful. 
 
 * [DIYfuturism.com](https://diyfuturism.com/index.php/category/node-red/) - Great site for info and inspiration. Great article about [presence detection](https://diyfuturism.com/index.php/2017/11/27/useful-sensor-improving-presence-detection-with-node-red/).
+[Course - Node Red: Basics to Bots](https://cognitiveclass.ai/courses/node-red-basics-to-bots/) - Free course for Node Red. Level:Intermediate.
 
 [Back to top](#contents)
 
